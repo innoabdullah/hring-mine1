@@ -1,0 +1,59 @@
+.navbar{
+    background-color:black;
+}
+.hringmine{
+    height: 50px;
+    text-align: center;
+}
+.container-fluid  {
+    background-color: white;
+} 
+
+.abd{
+   margin-right: 500px;
+}
+.button{
+   background-color:blue;
+   color: white;
+   border: none;
+   border-radius:  20px;
+}
+
+.dig{
+    margin-left: 30px;
+   margin-top:30px;
+font-size: 50px;
+color: blueviolet;
+
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.dig2{
+    margin-left: 30px;
+    font-size: 50px;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p{
+    margin-left: 30px ;
+    font-size: 30px;
+
+}
+.form-control{
+    margin-left: 30px;
+}
+
+.populer{
+    margin-left: 30px;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.abdu{
+    border-radius:20px;
+    margin-left: 30px;
+    background-color: white;
+    border-color: blueviolet;
+    color: blueviolet;
+}
